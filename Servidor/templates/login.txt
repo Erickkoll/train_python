@@ -1,0 +1,14 @@
+<!DOCTYPE
+<head>
+    <title>Login</title>
+    <meta charset="utf-8">
+
+</head>
+
+<body>
+    <form method="post" action="makelogin">
+        <input type="text" name = "username" placeholder="usuario">
+        <input type="password" name = "password" placeholder="senha">
+	<button name="sendLogin" action="submit">Logar</button>
+    </form>
+</body>
